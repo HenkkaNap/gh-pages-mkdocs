@@ -1,6 +1,6 @@
 # Welcome to My Documentation
 
-This is a sample documentation site built with MkDocs and deployed to GitHub Pages.
+This is a sample documentation site built with MkDocs and deployed to GitHub Pages. Please note, this does not have any real content, this is just for demo purposes!
 
 ## Features
 
