@@ -1,4 +1,5 @@
 site_name: My MkDocs Documentation
+site_url: https://henkkanap.github.io/gh-pages-mkdocs/
 theme:
   name: material
   features:
